@@ -8,9 +8,6 @@ edition = "2021"
 crate-type = ["lib"]
 name = "bark_staking_program"
 
-[features]
-default = []
-
 [dependencies]
 anchor-lang = "0.30.0"
 solana-program = "1.18.12"
